@@ -1,6 +1,7 @@
 Creating a WhiteList Decentralised Application using **_React.js_**,**_Next.js_**,**_Ether.js_**,**_Hardhat_** and **_Metamask_**
-
 WhiteList users get access to NFTs before it has been released.
+
+![Output](https://user-images.githubusercontent.com/90527884/215277801-4ebce4d5-35ef-4438-8adc-df6c3070fb5c.jpg)
 
 #### Features
 
