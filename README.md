@@ -5,6 +5,9 @@ WhiteList users get access to NFTs before it has been released.
 #### Features
 
 1. WhiteList access is given to first 10 users for free who want to get in.
-2. A fully functional deployed website is created where people can go and enter into wishlist.
+2. Website is created where people can go and enter into wishlist.
+3. Finally,deploying website on Vercel.
 
 Whitelist-Dapp address: **_0x33720D774adC2cAe74e7570b13222297B10e9FF5_**
+
+Deployed Website address: "https://whitelist-dapp-psi-inky.vercel.app/"
